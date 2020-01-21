@@ -1,3 +1,10 @@
+##################################################################################################
+#####                                 IMPORTANT DISCLAIMER                                   #####
+
+###       THIS CODE IS NOT INTENDED TO ASSIST IN ANY ACTUAL, REAL-WORLD INVESTMENT DECISIONS.  ###
+### I WILL NOT BE HELD RESPONSIBLE FOR ANY LOSSES FLOWING FROM THE USE OR MISUSE OF THIS CODE. ###
+##################################################################################################
+
 rm(list=ls())
 
 ### HYPERPARAMETRES ###
